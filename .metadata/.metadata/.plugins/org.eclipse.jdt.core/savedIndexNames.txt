@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Estudos\Profissional\Everis - DIO\Everis New Talents Java\Dominando IDEs Java\Workspace\.metadata\.metadata\.plugins\org.eclipse.jdt.core
+2375924588.index
+881357549.index

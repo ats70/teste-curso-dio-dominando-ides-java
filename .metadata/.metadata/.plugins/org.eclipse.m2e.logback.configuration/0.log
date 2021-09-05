@@ -1,0 +1,4 @@
+2021-08-25 22:09:57,066 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-26 21:23:40,301 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[D:\Estudos\Profissional\Everis - DIO\Everis New Talents Java\Dominando IDEs Java\Workspace\.metadata\primeiro.programa.java\.git]
+2021-08-27 20:06:26,121 [Worker-115: Fetching remote refs from git@github.com:ats70/teste-curso-dio-dominando-ides-java.git] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2021-08-27 20:06:27,669 [ModalContext] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory using Nio2ServiceFactoryFactory
